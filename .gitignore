@@ -1,0 +1,13 @@
+# Environment Files
+*Env/
+
+# SQLite Files
+*.db
+
+# Python Compiled Files
+*.pyc
+__pychache__
+
+# VSC Files
+.vs/
+.vscode/
